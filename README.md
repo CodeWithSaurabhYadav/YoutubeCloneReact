@@ -2,7 +2,7 @@
 
 This project is hosted on : Netlify
 
-## To run ont the local machine run [NetlifyLink}(https://youtube-clone-react-18.netlify.app)
+## To run ont the local machine run [NetlifyLink](https://youtube-clone-react-18.netlify.app)
 
 `npm install`
 
